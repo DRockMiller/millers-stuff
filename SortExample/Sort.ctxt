@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Sort()
+comment0.text=\nConstructor\ to\ initialize\ the\ list\n\n
+comment1.target=void\ sortList()
+comment1.text=\nA\ helper\ method\ used\ to\ sort\ the\ list\n\nPrecondition\:\ The\ list\ contains\ values\ to\ sort\nPostcondition\:\ The\ list\ is\ sorted\ from\ smallest\ to\ largest\n\n\n
+comment2.params=i\ j
+comment2.target=void\ swap(int,\ int)
+comment2.text=\nA\ helper\ method\ used\ to\ swap\ list\ values\n\nPrecondition\:\ i\ and\ j\ are\ positions\ within\ the\ list\nPostcondition\:\ The\ values\ at\ i\ and\ j\ are\ swapped\ within\ the\ list\n\n@param\ \ i\ \ \ the\ position\ of\ the\ 1st\ value\ to\ swap\n@param\ \ j\ \ \ the\ position\ of\ the\ 2nd\ value\ to\ swap\n\n
+comment3.target=ArrayList<Integer>\ showList()
+comment3.text=\nMethod\ to\ return\ the\ values\ in\ the\ list\n\nPrecondition\:\ The\ list\ contains\ values\nPostcondition\:\ The\ list\ is\ returned\n\n@return\ \ \ \ \ \ the\ full\ ArrayList\ is\ returned\n\n
+comment4.params=num
+comment4.target=ArrayList<Integer>\ addNumber(int)
+comment4.text=\nMethod\ to\ add\ a\ number\ to\ the\ list\nThe\ list\ is\ sorted\ after\ the\ number\ is\ added\n\nPrecondition\:\ num\ is\ an\ integer\nPostcondition\:\ num\ is\ added\ to\ the\ list\ and\ the\ list\ is\ sorted\n\n@param\ \ num\ \ \ the\ number\ to\ add\ to\ the\ list\n@return\ \ \ \ \ \ \ the\ full\ ArrayList\ is\ returned\n\n
+numComments=5
