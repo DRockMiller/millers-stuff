@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FractionTest()
+comment0.text=\nDefault\ constructor\ for\ test\ class\ FractionTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSets\ up\ the\ test\ fixture.\n\nCalled\ before\ every\ test\ case\ method.\n\n
+comment10.target=void\ testEqualityTest1()
+comment11.target=void\ testEqualityTest2()
+comment2.target=void\ tearDown()
+comment2.text=\nTears\ down\ the\ test\ fixture.\n\nCalled\ after\ every\ test\ case\ method.\n\n
+comment3.target=void\ testConstructorTest1()
+comment4.target=void\ testConstructorTest2()
+comment5.target=void\ testConstructorTest3()
+comment6.target=void\ testReduceTest()
+comment7.target=void\ testProperFractionTest2()
+comment8.target=void\ testMultiplicationTest()
+comment9.target=void\ testAdditionTest()
+numComments=12
