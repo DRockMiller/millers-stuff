@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=QuadraticTest()
+comment1.target=void\ setUp()
+comment1.text=\nSets\ up\ the\ test\ fixture.\n\nCalled\ before\ every\ test\ case\ method.\n\n
+comment10.target=void\ testTwoSolutions2()
+comment11.target=void\ testTwoSolutions3()
+comment2.target=void\ tearDown()
+comment2.text=\nTears\ down\ the\ test\ fixture.\n\nCalled\ after\ every\ test\ case\ method.\n\n
+comment3.target=void\ testNoReal1()
+comment4.target=void\ testNoReal2()
+comment5.target=void\ testNoReal3()
+comment6.target=void\ testOneSolution1()
+comment7.target=void\ testOneSolution2()
+comment8.target=void\ testOneSolution3()
+comment9.target=void\ testTwoSolutions1()
+numComments=12
