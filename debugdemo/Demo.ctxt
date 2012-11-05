@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Demo()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Demo\n\n
+comment1.params=count
+comment1.target=int\ loop(int)
+comment1.text=\nLoop\ for\ a\ while\ and\ do\ some\ meaningless\ computations.\n\n
+comment2.target=int\ carTest()
+comment2.text=\nMethod\ for\ demonstrating\ single\ stepping\ with\ nested\ method\ call.\n\n
+comment3.target=int\ longloop()
+numComments=4
