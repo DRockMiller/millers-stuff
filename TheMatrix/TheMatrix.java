@@ -1,4 +1,3 @@
-
 /**
  * Perform operations on integer matrices
  * Note that all methods are static, 
@@ -128,25 +127,3 @@ public class TheMatrix
         for (int row = 0; row < matrix.length; row++)
             System.out.println(java.util.Arrays.toString(matrix[row]));
     }
-    
-    	public static void test()
-	{
-	int[][] first = new int[3][4];
-    int[][] second = new int[4][2];
-
-    int[][] correctAnswer = new int[][] {
-        
-    };
-    
-    int num = 20;
-
-    for (int row = 0; row < first.length; row++)
-      for (int col = 0; col < first[0].length; col++)
-        first[row][col] = num++;
-
-    for (int row = 0; row < second.length; row++)
-      for (int col = 0; col < second[0].length; col++)
-        second[row][col] = num++;
-          TheMatrix.print(second);
-	}
-}
