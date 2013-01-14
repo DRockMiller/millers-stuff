@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=ant
+comment0.target=void\ process(WorkerAnt)
+comment0.text=\nGives\ food\ and\ current\ location\ to\ <code>ant</code>.\n@param\ ant\ the\ calling\ <code>WorkerAnt</code>\n\n
+comment1.target=void\ act()
+comment2.target=String\ toString()
+numComments=3

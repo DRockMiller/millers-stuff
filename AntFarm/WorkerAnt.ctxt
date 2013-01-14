@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=WorkerAnt()
+comment0.text=\nConstructs\ a\ <code>WorkerAnt</code>\ critter.\nIt\ is\ originally\ black\ (no\ food)\ and\nits\ direction\ is\ chosen\ randomly\ from\ the\neight\ normal\ cardinal\ directions.\n\n
+comment1.params=ant
+comment1.target=void\ process(WorkerAnt)
+comment1.text=\nGives\ current\ food\ and\ queen\ locations\ to\ <code>ant</code>.\n@param\ ant\ the\ calling\ <code>WorkerAnt</code>\n\n
+comment10.target=String\ toString()
+comment2.params=fQty
+comment2.target=void\ takeFood(int)
+comment2.text=\nTakes\ <code>fQty</code>\ amount\ of\ food\ from\ the\ncalling\ <code>Food</code>.\n@param\ fQty\ the\ amount\ of\ food\ to\ take.\n\n
+comment3.target=int\ giveFood()
+comment3.text=\nGives\ food\ to\ the\ calling\ <code>QueenAnt</code>.\n@return\ the\ amound\ of\ food\ to\ give.\n\n
+comment4.params=fLoc
+comment4.target=void\ shareFoodLocation(Location)
+comment4.text=\nReceives\ the\ <code>fLoc</code>\ food\ location\ from\ a\n<code>Food</code>\ object.\ \ Saves\ this\ location\ if\nit\ doesn't\ already\ have\ one.\n@param\ fLoc\ the\ location\ of\ the\ food.\n\n
+comment5.params=qLoc
+comment5.target=void\ shareQueenLocation(Location)
+comment5.text=\nReceives\ the\ <code>qLoc</code>\ queen\ location\ from\ a\n<code>QueenAnt</code>\ object.\ \ Saves\ this\ location\ if\nit\ doesn't\ already\ have\ one.\n@param\ qLoc\ the\ location\ of\ the\ queen.\n\n
+comment6.params=actors
+comment6.target=void\ processActors(ArrayList<Actor>)
+comment7.target=ArrayList<Location>\ getMoveLocations()
+comment8.params=loc
+comment8.target=void\ makeMove(Location)
+comment9.target=int\ getDesiredDirecton()
+comment9.text=\nReturns\ the\ direction\ that\ the\ ant\ wants\ to\ go.\n@return\ the\ direction\ to\ the\ queen\ (if\ there\ is\ food\nand\ a\ queen's\ location\ is\ known);\ the\ direction\ to\ the\nfood\ (if\ there\ is\ no\ food\ and\ a\ food's\ location\ is\ known);\nthe\ current\ ant's\ direction\ otherwise.\n\n
+numComments=11

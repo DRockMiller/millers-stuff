@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QueenAnt()
+comment0.text=\nConstructs\ a\ <code>QueenAnt</code>\ actor.\nThe\ queen\ is\ colored\ magenta.\n\n
+comment1.params=ant
+comment1.target=void\ process(WorkerAnt)
+comment1.text=\nGets\ food\ from\ and\ gives\ current\ location\ to\ <code>ant</code>.\n@param\ ant\ the\ calling\ <code>WorkerAnt</code>\n\n
+comment2.target=void\ act()
+comment3.target=String\ toString()
+numComments=4
