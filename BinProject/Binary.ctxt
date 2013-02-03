@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=nth
+comment0.target=int\ getBit(int)
+comment1.params=nth\ value
+comment1.target=void\ setBit(int,\ int)
+comment10.params=rhs
+comment10.target=Binary\ add(Binary)
+comment11.target=Binary\ twosComplement()
+comment12.target=Binary\ rotateLeft()
+comment13.target=Binary\ rotateRight()
+comment2.target=Binary()
+comment3.params=anyBin
+comment3.target=Binary(Binary)
+comment4.params=number
+comment4.target=Binary(int)
+comment5.params=bitString
+comment5.target=Binary(String)
+comment6.target=String\ toString()
+comment7.params=num
+comment7.target=Binary\ int2bin(int)
+comment8.target=int\ bin2int()
+comment9.target=Binary\ not()
+numComments=14

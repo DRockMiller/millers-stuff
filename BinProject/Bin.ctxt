@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=String\ toString()
+comment0.text=\nReturns\ the\ String\ representation\ of\ a\ binary\ number.\n@return\ the\ String\ representation\ of\ a\ binary\ number.\n\n
+comment1.target=Binary\ not()
+comment1.text=\nReturns\ the\ bitwise\ not\ representation\ of\ a\ binary\ number\ (1s\ become\ 0s\ and\ 0s\ become\ 1s.)\n@return\ the\ bitwise\ not\ representation\ of\ a\ binary\ number.\n\n
+comment2.params=rhs
+comment2.target=Binary\ add(Binary)
+comment2.text=\nReturns\ the\ sum\ of\ two\ binary\ numbers.\ \n@param\ rhs\ the\ Binary\ number\ being\ added.\n@return\ the\ sum\ of\ two\ binary\ numbers.\n\n
+comment3.target=Binary\ rotateLeft()
+comment3.text=\nReturns\ the\ representation\ of\ a\ binary\ number\ where\ each\ bit\ has\ been\ move\ to\ the\ left\ one\ position\ (\ a\ 0\ is\ put\ in\ the\ rightmost\ position.)\n@return\ the\ representation\ of\ a\ binary\ number\ whose\ bits\ have\ been\ rotated\ left.\n\n
+comment4.target=Binary\ rotateRight()
+comment4.text=\nReturns\ the\ representation\ of\ a\ binary\ number\ where\ each\ bit\ has\ been\ move\ to\ the\ right\ one\ position\ (\ a\ 0\ is\ put\ in\ the\ leftmost\ position.)\n@return\ the\ representation\ of\ a\ binary\ number\ whose\ bits\ have\ been\ rotated\ right.\n\n
+comment5.params=num
+comment5.target=Binary\ int2bin(int)
+comment5.text=\nReturns\ the\ Binary\ number\ that\ is\ equivalent\ to\ the\ integer\ number\ given.\n@param\ num\ the\ decimal\ number\ to\ be\ converted\ to\ Binary.\n@return\ the\ converted\ Binary\ number.\n\n
+comment6.target=int\ bin2int()
+comment6.text=\nReturns\ the\ decimal\ value\ of\ the\ current\ Binary\ number.\ \n@return\ the\ decimal\ value\ of\ the\ current\ Binary\ number.\ \n\n
+comment7.target=Binary\ twosComplement()
+comment7.text=\nReturns\ the\ additive\ inverse\ value\ of\ the\ current\ Binary\ number\ (equivalent\ to\ multiplying\ by\ -1\ .)\ \n@return\ the\ additive\ inverse\ value\ of\ the\ current\ Binary\ number.\ \n\n
+numComments=8
